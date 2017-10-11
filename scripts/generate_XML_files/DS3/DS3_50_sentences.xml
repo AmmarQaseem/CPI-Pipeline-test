@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<corpus source="DS3">
+    <document id="DS3.d0" origId="12970342">
+        <sentence id="DS3.d0.s0" origId="12970342-5" text="The enzyme, previously assigned the identifier UGT73C5, catalyzes the transfer of glucose from UDP-glucose to the hydroxyl group at carbon 3 of deoxynivalenol.">
+            <entity id="DS3.d0.s0.e0" origId="Q9ZQ94,W8Q3B1" charOffset="47-54" type="protein" text="UGT73C5"/>
+            <entity id="DS3.d0.s0.e1" origId="206,5793,64689,79025" charOffset="82-89" type="compound" text="glucose"/>
+            <entity id="DS3.d0.s0.e2" origId="8629" charOffset="95-106" type="compound" text="UDP-glucose"/>
+            <entity id="DS3.d0.s0.e3" origId="5462310" charOffset="132-138" type="compound" text="carbon"/>
+            <entity id="DS3.d0.s0.e4" origId="40024,430147,442408,49868109,6321385,6432495" charOffset="144-158" type="compound" text="deoxynivalenol"/>
+            <pair e1="DS3.d0.s0.e2" e2="DS3.d0.s0.e0" id="DS3.d0.s0.i0" interaction="False" />
+            <pair e1="DS3.d0.s0.e3" e2="DS3.d0.s0.e0" id="DS3.d0.s0.i1" interaction="False" />
+            <pair e1="DS3.d0.s0.e4" e2="DS3.d0.s0.e0" id="DS3.d0.s0.i2" interaction="False" />
+            <pair e1="DS3.d0.s0.e1" e2="DS3.d0.s0.e0" id="DS3.d0.s0.i3" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d0.s1" origId="12970342-7" text="This deoxynivalenol-glucosyltransferase (DOGT1) was also found to detoxify the acetylated derivative 15-acetyl-deoxynivalenol, whereas no protective activity was observed against the structurally similar nivalenol.">
+            <entity id="DS3.d0.s1.e0" origId="40024,430147,442408,49868109,6321385,6432495" charOffset="5-19" type="compound" text="deoxynivalenol"/>
+            <entity id="DS3.d0.s1.e1" origId="Q9ZQ94,W8Q3B1" charOffset="41-46" type="protein" text="DOGT1"/>
+            <entity id="DS3.d0.s1.e2" origId="40024,430147,442408,49868109,6321385,6432495" charOffset="111-125" type="compound" text="deoxynivalenol"/>
+            <entity id="DS3.d0.s1.e3" origId="31829,430146,440908,5284433,90470438" charOffset="10-19" type="compound" text="nivalenol"/>
+            <pair e1="DS3.d0.s1.e3" e2="DS3.d0.s1.e1" id="DS3.d0.s1.i0" interaction="False" />
+            <pair e1="DS3.d0.s1.e0" e2="DS3.d0.s1.e1" id="DS3.d0.s1.i1" interaction="False" />
+        </sentence>
+    </document>
+    <document id="DS3.d1" origId="11392036">
+        <sentence id="DS3.d1.s0" origId="11392036-6" text="Carbohydrate metabolism, measured by two-hour postchallenge insulin level, decreased in all groups, including placebo; however, two-hour glucose increased in the CEE plus medroxyprogesterone acetate (cyclic and continuous) groups vs. placebo but was unchanged in CEE alone and CEE plus MP groups.">
+            <entity id="DS3.d1.s0.e0" origId="P01308,I3WAC9" charOffset="60-67" type="protein" text="insulin"/>
+            <entity id="DS3.d1.s0.e1" origId="206,5793,64689,79025" charOffset="137-144" type="compound" text="glucose"/>
+            <entity id="DS3.d1.s0.e2" origId="6279" charOffset="171-198" type="compound" text="medroxyprogesterone acetate"/>
+            <pair e1="DS3.d1.s0.e2" e2="DS3.d1.s0.e0" id="DS3.d1.s0.i0" interaction="False" />
+            <pair e1="DS3.d1.s0.e1" e2="DS3.d1.s0.e0" id="DS3.d1.s0.i1" interaction="False" />
+        </sentence>
+    </document>
+    <document id="DS3.d2" origId="23122842">
+        <sentence id="DS3.d2.s0" origId="23122842-0" text="Oxidative stress and cholinesterase inhibition in plasma, erythrocyte and brain of rats' pups following lactational exposure to malathion.">
+            <entity id="DS3.d2.s0.e0" origId="Q9JKC1" charOffset="21-35" type="protein" text="cholinesterase"/>
+            <entity id="DS3.d2.s0.e1" origId="22011568,4004" charOffset="128-137" type="compound" text="malathion"/>
+            <pair e1="DS3.d2.s0.e1" e2="DS3.d2.s0.e0" id="DS3.d2.s0.i0" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d2.s1" origId="23122842-6" text="We evaluated the activity of acetylcholinesterase (AChE) and butyrylcholinesterase (BChE), as well as on biochemical parameters related to the oxidative stress such lipoperoxidation and antioxidant enzyme activities as superoxide dismutase (SOD) and catalase (CAT) in the brain, plasma and erythrocytes of rats' pups at 21st postnatal day (Pnd).">
+            <entity id="DS3.d2.s1.e0" origId="Q9JKC1" charOffset="84-88" type="protein" text="BChE"/>
+            <entity id="DS3.d2.s1.e1" origId="5359597" charOffset="219-229" type="compound" text="superoxide"/>
+            <pair e1="DS3.d2.s1.e1" e2="DS3.d2.s1.e0" id="DS3.d2.s1.i0" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d2.s2" origId="23122842-8" text="Our results showed that the malathion exposure during lactation induced a high inhibitory effect of the brain, plasma and erythrocyte AChE and BChE activities in rat pups.">
+            <entity id="DS3.d2.s2.e0" origId="22011568,4004" charOffset="28-37" type="compound" text="malathion"/>
+            <entity id="DS3.d2.s2.e1" origId="Q9JKC1" charOffset="143-147" type="protein" text="BChE"/>
+            <pair e1="DS3.d2.s2.e0" e2="DS3.d2.s2.e1" id="DS3.d2.s2.i0" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d2.s3" origId="23122842-10" text="The present study shows, for the first time, that the exposure of postnatal pups to malathion via lactation inhibits the activity of brain, plasma and erythrocytes cholinesterase in the pups.">
+            <entity id="DS3.d2.s3.e0" origId="22011568,4004" charOffset="84-93" type="compound" text="malathion"/>
+            <entity id="DS3.d2.s3.e1" origId="Q9JKC1" charOffset="164-178" type="protein" text="cholinesterase"/>
+            <pair e1="DS3.d2.s3.e0" e2="DS3.d2.s3.e1" id="DS3.d2.s3.i0" interaction="False" />
+        </sentence>
+    </document>
+    <document id="DS3.d3" origId="23081707">
+        <sentence id="DS3.d3.s0" origId="23081707-1" text="Environmental polychlorinated biphenyls (PCBs) are frequently bound onto nanoparticles (NPs).">
+            <entity id="DS3.d3.s0.e0" origId="6636" charOffset="41-45" type="compound" text="PCBs"/>
+            <entity id="DS3.d3.s0.e1" origId="P0C0P8" charOffset="88-91" type="protein" text="NPs"/>
+            <pair e1="DS3.d3.s0.e0" e2="DS3.d3.s0.e1" id="DS3.d3.s0.i0" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d3.s1" origId="23081707-3" text="The aim of this study was to study the hypothesis that binding PCBs to silica NPs potentiates PCB-induced cerebrovascular toxicity and brain damage in an experimental stroke model.">
+            <entity id="DS3.d3.s1.e0" origId="6636" charOffset="63-67" type="compound" text="PCBs"/>
+            <entity id="DS3.d3.s1.e1" origId="24261" charOffset="71-77" type="compound" text="silica"/>
+            <entity id="DS3.d3.s1.e2" origId="P0C0P8" charOffset="78-81" type="protein" text="NPs"/>
+            <pair e1="DS3.d3.s1.e1" e2="DS3.d3.s1.e2" id="DS3.d3.s1.i0" interaction="False" />
+            <pair e1="DS3.d3.s1.e0" e2="DS3.d3.s1.e2" id="DS3.d3.s1.i1" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d3.s2" origId="23081707-4" text="Mice (C57BL/6, males, 12-week-old) were exposed to PCB153 bound to NPs (PCB153-NPs), PCB153, or vehicle.">
+            <entity id="DS3.d3.s2.e0" origId="37034" charOffset="51-57" type="compound" text="PCB153"/>
+            <entity id="DS3.d3.s2.e1" origId="P0C0P8" charOffset="67-70" type="protein" text="NPs"/>
+            <entity id="DS3.d3.s2.e2" origId="P0C0P8" charOffset="72-82" type="protein" text="PCB153-NPs"/>
+            <entity id="DS3.d3.s2.e3" origId="37034" charOffset="72-78" type="compound" text="PCB153"/>
+            <pair e1="DS3.d3.s2.e0" e2="DS3.d3.s2.e2" id="DS3.d3.s2.i0" interaction="False" />
+            <pair e1="DS3.d3.s2.e0" e2="DS3.d3.s2.e1" id="DS3.d3.s2.i1" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d3.s3" origId="23081707-10" text="A long-term (30 days) oral exposure to PCB153-NPs resulted in a higher PCB153 content in the abdominal adipose tissue and amplified adhesion of leukocytes to the brain endothelium as compared to treatment with PCB153 alone.">
+            <entity id="DS3.d3.s3.e0" origId="P0C0P8" charOffset="39-49" type="protein" text="PCB153-NPs"/>
+            <entity id="DS3.d3.s3.e1" origId="37034" charOffset="39-45" type="compound" text="PCB153"/>
+            <entity id="DS3.d3.s3.e2" origId="37034" charOffset="71-77" type="compound" text="PCB153"/>
+            <pair e1="DS3.d3.s3.e1" e2="DS3.d3.s3.e0" id="DS3.d3.s3.i0" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d3.s4" origId="23081707-11" text="This study provides the first evidence that binding to NPs increases cerebrovascular toxicity of environmental toxicants, such as PCB153.">
+            <entity id="DS3.d3.s4.e0" origId="P0C0P8" charOffset="55-58" type="protein" text="NPs"/>
+            <entity id="DS3.d3.s4.e1" origId="37034" charOffset="130-136" type="compound" text="PCB153"/>
+            <pair e1="DS3.d3.s4.e1" e2="DS3.d3.s4.e0" id="DS3.d3.s4.i0" interaction="False" />
+        </sentence>
+    </document>
+    <document id="DS3.d4" origId="23806243">
+        <sentence id="DS3.d4.s0" origId="23806243-4" text="The vaccines included: pneumococcal (PPSV), influenza (Flu), tetanus diphtheria (Td), tetanus diphtheria pertussis (Tdap), Human Papilloma Virus (HPV), hepatitis A (HepA), hepatitis B (HepB) and herpes zoster (shingles).">
+            <entity id="DS3.d4.s0.e0" origId="O75800" charOffset="55-58" type="protein" text="Flu"/>
+            <entity id="DS3.d4.s0.e1" origId="4177956" charOffset="185-189" type="compound" text="HepB"/>
+            <pair e1="DS3.d4.s0.e1" e2="DS3.d4.s0.e0" id="DS3.d4.s0.i0" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d4.s1" origId="23806243-10" text="For PPSV and Flu those 65+ had low specificity compared to patients of younger ages while those in the youngest age group had lowest specificity for HepA and HepB.">
+            <entity id="DS3.d4.s1.e0" origId="O75800" charOffset="13-16" type="protein" text="Flu"/>
+            <entity id="DS3.d4.s1.e1" origId="4177956" charOffset="158-162" type="compound" text="HepB"/>
+            <pair e1="DS3.d4.s1.e1" e2="DS3.d4.s1.e0" id="DS3.d4.s1.i0" interaction="False" />
+        </sentence>
+    </document>
+    <document id="DS3.d5" origId="9506746">
+        <sentence id="DS3.d5.s0" origId="9506746-7" text="The addition of dexamethasone to the medium increased ob gene expression and leptin secretion in a time-dependent manner.">
+            <entity id="DS3.d5.s0.e0" origId="5743" charOffset="16-29" type="compound" text="dexamethasone"/>
+            <entity id="DS3.d5.s0.e1" origId="P41159,A4D0Y8" charOffset="77-83" type="protein" text="leptin"/>
+            <pair e1="DS3.d5.s0.e0" e2="DS3.d5.s0.e1" id="DS3.d5.s0.i0" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d5.s1" origId="9506746-8" text="Forty-eight hours after dexamethasone (50 nmol/L) addition, the cumulative integrated ob messenger ribonucleic acid (mRNA) and leptin responses were, respectively, approximately 5- and 4-fold higher in obese than in lean subjects.">
+            <entity id="DS3.d5.s1.e0" origId="5743" charOffset="24-37" type="compound" text="dexamethasone"/>
+            <entity id="DS3.d5.s1.e1" origId="P41159,A4D0Y8" charOffset="127-133" type="protein" text="leptin"/>
+            <pair e1="DS3.d5.s1.e0" e2="DS3.d5.s1.e1" id="DS3.d5.s1.i0" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d5.s2" origId="9506746-12" text="Unlike dexamethasone, insulin had no direct stimulatory effect on ob gene expression and leptin secretion.">
+            <entity id="DS3.d5.s2.e0" origId="5743" charOffset="7-20" type="compound" text="dexamethasone"/>
+            <entity id="DS3.d5.s2.e1" origId="P01308,I3WAC9" charOffset="22-29" type="protein" text="insulin"/>
+            <entity id="DS3.d5.s2.e2" origId="P41159,A4D0Y8" charOffset="89-95" type="protein" text="leptin"/>
+            <pair e1="DS3.d5.s2.e0" e2="DS3.d5.s2.e2" id="DS3.d5.s2.i0" interaction="False" />
+            <pair e1="DS3.d5.s2.e0" e2="DS3.d5.s2.e1" id="DS3.d5.s2.i1" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d5.s3" origId="9506746-13" text="Singularly, insulin even inhibited the dexamethasone-induced rise in ob mRNA and leptin release.">
+            <entity id="DS3.d5.s3.e0" origId="P01308,I3WAC9" charOffset="12-19" type="protein" text="insulin"/>
+            <entity id="DS3.d5.s3.e1" origId="5743" charOffset="39-52" type="compound" text="dexamethasone"/>
+            <entity id="DS3.d5.s3.e2" origId="P41159,A4D0Y8" charOffset="81-87" type="protein" text="leptin"/>
+            <pair e1="DS3.d5.s3.e1" e2="DS3.d5.s3.e2" id="DS3.d5.s3.i0" interaction="False" />
+            <pair e1="DS3.d5.s3.e1" e2="DS3.d5.s3.e0" id="DS3.d5.s3.i1" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d5.s4" origId="9506746-14" text="This inhibition was observed in both lean and obese subjects, whereas the expected stimulation of insulin on glucose metabolism and the accumulation of mRNA species for the insulin-sensitive transporter GLUT4 and glyceraldehyde-3-phosphate dehydrogenase occurred in lean patients only.">
+            <entity id="DS3.d5.s4.e0" origId="P01308,I3WAC9" charOffset="98-105" type="protein" text="insulin"/>
+            <entity id="DS3.d5.s4.e1" origId="206,5793,64689,79025" charOffset="109-116" type="compound" text="glucose"/>
+            <entity id="DS3.d5.s4.e2" origId="P01308,I3WAC9" charOffset="173-180" type="protein" text="insulin"/>
+            <entity id="DS3.d5.s4.e3" origId="P04406,V9HVZ4" charOffset="213-253" type="protein" text="glyceraldehyde-3-phosphate dehydrogenase"/>
+            <pair e1="DS3.d5.s4.e1" e2="DS3.d5.s4.e3" id="DS3.d5.s4.i0" interaction="False" />
+            <pair e1="DS3.d5.s4.e1" e2="DS3.d5.s4.e0" id="DS3.d5.s4.i1" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d5.s5" origId="9506746-16" text="Although a lowering of intracellular cAMP concentrations is involved in some of the effects of insulin on adipose tissue, this cannot account for the present finding, because the addition of cAMP to the medium also decreased ob mRNA and leptin secretion (regardless of whether dexamethasone was present).">
+            <entity id="DS3.d5.s5.e0" origId="P49913,J3KNB4" charOffset="37-41" type="protein" text="cAMP"/>
+            <entity id="DS3.d5.s5.e1" origId="P01308,I3WAC9" charOffset="95-102" type="protein" text="insulin"/>
+            <entity id="DS3.d5.s5.e2" origId="P49913,J3KNB4" charOffset="191-195" type="protein" text="cAMP"/>
+            <entity id="DS3.d5.s5.e3" origId="P41159,A4D0Y8" charOffset="237-243" type="protein" text="leptin"/>
+            <entity id="DS3.d5.s5.e4" origId="5743" charOffset="277-290" type="compound" text="dexamethasone"/>
+            <pair e1="DS3.d5.s5.e4" e2="DS3.d5.s5.e3" id="DS3.d5.s5.i0" interaction="False" />
+            <pair e1="DS3.d5.s5.e4" e2="DS3.d5.s5.e0" id="DS3.d5.s5.i1" interaction="False" />
+            <pair e1="DS3.d5.s5.e4" e2="DS3.d5.s5.e1" id="DS3.d5.s5.i2" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d5.s6" origId="9506746-19" text="Unlike dexamethasone, insulin had no direct stimulatory effect on ob gene expression and leptin secretion, and even prevented the positive response to dexamethasone by a cAMP-independent mechanism that remained functional despite insulin resistance.">
+            <entity id="DS3.d5.s6.e0" origId="5743" charOffset="7-20" type="compound" text="dexamethasone"/>
+            <entity id="DS3.d5.s6.e1" origId="P01308,I3WAC9" charOffset="22-29" type="protein" text="insulin"/>
+            <entity id="DS3.d5.s6.e2" origId="P41159,A4D0Y8" charOffset="89-95" type="protein" text="leptin"/>
+            <entity id="DS3.d5.s6.e3" origId="5743" charOffset="151-164" type="compound" text="dexamethasone"/>
+            <entity id="DS3.d5.s6.e4" origId="P49913,J3KNB4" charOffset="170-174" type="protein" text="cAMP"/>
+            <entity id="DS3.d5.s6.e5" origId="P01308,I3WAC9" charOffset="230-237" type="protein" text="insulin"/>
+            <pair e1="DS3.d5.s6.e0" e2="DS3.d5.s6.e2" id="DS3.d5.s6.i0" interaction="False" />
+            <pair e1="DS3.d5.s6.e0" e2="DS3.d5.s6.e4" id="DS3.d5.s6.i1" interaction="False" />
+            <pair e1="DS3.d5.s6.e0" e2="DS3.d5.s6.e1" id="DS3.d5.s6.i2" interaction="False" />
+        </sentence>
+    </document>
+    <document id="DS3.d6" origId="14632760">
+        <sentence id="DS3.d6.s0" origId="14632760-0" text="Gliadin and Tissue transglutaminase complexes in normal and coeliac duodenal mucosa.">
+            <entity id="DS3.d6.s0.e0" origId="17787981" charOffset="0-7" type="compound" text="Gliadin"/>
+            <entity id="DS3.d6.s0.e1" origId="P21980,V9HWG3" charOffset="12-35" type="protein" text="Tissue transglutaminase"/>
+            <pair e1="DS3.d6.s0.e0" e2="DS3.d6.s0.e1" id="DS3.d6.s0.i0" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d6.s1" origId="14632760-1" text="Tissue transglutaminase (tTG) seems to be the target self-antigen for endomysial antibodies in coeliac disease (CD) and to catalyse the critical deamidation of gliadin which strengthens its recognition by HLA-restricted gut-derived T cells.">
+            <entity id="DS3.d6.s1.e0" origId="P21980,V9HWG3" charOffset="0-23" type="protein" text="Tissue transglutaminase"/>
+            <entity id="DS3.d6.s1.e1" origId="17787981" charOffset="160-167" type="compound" text="gliadin"/>
+            <pair e1="DS3.d6.s1.e1" e2="DS3.d6.s1.e0" id="DS3.d6.s1.i0" interaction="False" />
+        </sentence>
+    </document>
+    <document id="DS3.d7" origId="11050685">
+        <sentence id="DS3.d7.s0" origId="11050685-2" text="Levels of adrenocorticotropic hormone (ACTH) and vasopressin (AVP) were determined by radio-immunoassay, and corticosterone level was determined by fluorimetric method.">
+            <entity id="DS3.d7.s0.e0" origId="P01186" charOffset="45-60" type="protein" text="and vasopressin"/>
+            <entity id="DS3.d7.s0.e1" origId="P01186" charOffset="62-65" type="protein" text="AVP"/>
+            <entity id="DS3.d7.s0.e2" origId="5753" charOffset="109-123" type="compound" text="corticosterone"/>
+            <pair e1="DS3.d7.s0.e2" e2="DS3.d7.s0.e1" id="DS3.d7.s0.i0" interaction="False" />
+            <pair e1="DS3.d7.s0.e2" e2="DS3.d7.s0.e0" id="DS3.d7.s0.i1" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d7.s1" origId="11050685-4" text="In water-deprived rats, plasma AVP (13.83 +/- 1.63 vs. 3.03 +/- 0.23 pg/ml) and osmolality levels were significantly elevated with a marked decrease of AVP hypophysis content (272 +/- 65 vs. 1098 +/- 75 ng/mg protein), but not in food-deprived rats in which osmolality did not change and AVP remained stocked (2082 +/- 216 ng/mg protein) in the hypophysis without release in the plasma (1.11 +/- 0.23 pg/ml).">
+            <entity id="DS3.d7.s1.e0" origId="962" charOffset="3-8" type="compound" text="water"/>
+            <entity id="DS3.d7.s1.e1" origId="P01186" charOffset="31-34" type="protein" text="AVP"/>
+            <entity id="DS3.d7.s1.e2" origId="P01186" charOffset="152-155" type="protein" text="AVP"/>
+            <entity id="DS3.d7.s1.e3" origId="P01186" charOffset="152-155" type="protein" text="AVP"/>
+            <pair e1="DS3.d7.s1.e0" e2="DS3.d7.s1.e1" id="DS3.d7.s1.i0" interaction="False" />
+        </sentence>
+    </document>
+    <document id="DS3.d8" origId="18157932">
+        <sentence id="DS3.d8.s0" origId="18157932-5" text="Major sites of enzymatic cleavage were identified or confirmed from the mass of the F(ab')(2) or Fab fragments and/or the amino-terminal amino acid sequence of the Fc for each enzyme including human matrix metalloproteinases (MMPs) 3 and 12, human cathepsin G, human neutrophil elastase (Fab), staphylococcal glutamyl endopeptidase I and streptococcal immunoglobulin-degrading enzyme (IdeS).">
+            <entity id="DS3.d8.s0.e0" origId="P08311" charOffset="248-259" type="protein" text="cathepsin G"/>
+            <entity id="DS3.d8.s0.e1" origId="129297" charOffset="309-317" type="compound" text="glutamyl"/>
+            <pair e1="DS3.d8.s0.e1" e2="DS3.d8.s0.e0" id="DS3.d8.s0.i0" interaction="False" />
+        </sentence>
+    </document>
+    <document id="DS3.d9" origId="6735353">
+        <sentence id="DS3.d9.s0" origId="6735353-5" text="The sialidase is monomeric and has an average molecular mass of 48500 Da, a pH optimum of 4.6, hydrolyses preferably glycoprotein (fetuin) and sialyllactose, is activated by Ca2 and inhibited by N-acetyl-2,3-dehydro-2- deoxyneuraminic acid ( Neu5Ac2en ), Hg2 and N-(4-nitrophenyl) oxamic acid.">
+            <entity id="DS3.d9.s0.e0" origId="P00918,V9HW21" charOffset="174-177" type="protein" text="Ca2"/>
+            <entity id="DS3.d9.s0.e1" origId="24612" charOffset="255-258" type="compound" text="Hg2"/>
+            <entity id="DS3.d9.s0.e2" origId="974" charOffset="281-292" type="compound" text="oxamic acid"/>
+            <pair e1="DS3.d9.s0.e2" e2="DS3.d9.s0.e0" id="DS3.d9.s0.i0" interaction="False" />
+            <pair e1="DS3.d9.s0.e1" e2="DS3.d9.s0.e0" id="DS3.d9.s0.i1" interaction="False" />
+        </sentence>
+    </document>
+    <document id="DS3.d10" origId="3315769">
+        <sentence id="DS3.d10.s0" origId="3315769-3" text="In addition, a cathepsin B-like cysteine proteinase has been shown to be associated with the plasma membrane fraction of several animal and human tumors.">
+            <entity id="DS3.d10.s0.e0" origId="P07858,A0A024R374" charOffset="15-26" type="protein" text="cathepsin B"/>
+            <entity id="DS3.d10.s0.e1" origId="5862,90793998" charOffset="32-40" type="compound" text="cysteine"/>
+            <pair e1="DS3.d10.s0.e1" e2="DS3.d10.s0.e0" id="DS3.d10.s0.i0" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d10.s1" origId="3315769-5" text="Since we have established that cathepsin B can degrade the basement membrane attachment glycoprotein laminin, we speculate that plasma membrane-associated cathepsin B may participate in focal dissolution of the basement membrane during tumor cell extravasation.">
+            <entity id="DS3.d10.s1.e0" origId="P07858,A0A024R374" charOffset="31-42" type="protein" text="cathepsin B"/>
+            <entity id="DS3.d10.s1.e1" origId="44342165" charOffset="101-108" type="compound" text="laminin"/>
+            <entity id="DS3.d10.s1.e2" origId="P07858,A0A024R374" charOffset="155-166" type="protein" text="cathepsin B"/>
+            <pair e1="DS3.d10.s1.e1" e2="DS3.d10.s1.e0" id="DS3.d10.s1.i0" interaction="False" />
+        </sentence>
+    </document>
+    <document id="DS3.d11" origId="10676669">
+        <sentence id="DS3.d11.s0" origId="10676669-9" text="There was no effect of L-arginine on serum levels of soluble cell adhesion molecules compared with placebo: E-selectin (50.6 +/- 14.8 vs. 52.1 +/- 17.0 ng/ml, p = 0.45), intercellular adhesion molecule-1 (230 +/- 51 vs. 230 +/- 52 ng/ml, p = 0.97) and vascular cell adhesion molecule-1 (456 +/- 62 vs. 469 +/- 91 ng/ml, p = 0.53).">
+            <entity id="DS3.d11.s0.e0" origId="6322,90867653" charOffset="25-33" type="compound" text="arginine"/>
+            <entity id="DS3.d11.s0.e1" origId="P16581" charOffset="108-118" type="protein" text="E-selectin"/>
+            <entity id="DS3.d11.s0.e2" origId="P05362" charOffset="170-203" type="protein" text="intercellular adhesion molecule-1"/>
+            <entity id="DS3.d11.s0.e3" origId="P19320" charOffset="252-285" type="protein" text="vascular cell adhesion molecule-1"/>
+            <pair e1="DS3.d11.s0.e0" e2="DS3.d11.s0.e2" id="DS3.d11.s0.i0" interaction="False" />
+            <pair e1="DS3.d11.s0.e0" e2="DS3.d11.s0.e1" id="DS3.d11.s0.i1" interaction="False" />
+            <pair e1="DS3.d11.s0.e0" e2="DS3.d11.s0.e3" id="DS3.d11.s0.i2" interaction="False" />
+        </sentence>
+    </document>
+    <document id="DS3.d12" origId="8083189">
+        <sentence id="DS3.d12.s0" origId="8083189-0" text="Amino acids Lys-Asp-Asp-Lys-Pro-Val402 in the Ca(2+)-ATPase of cardiac sarcoplasmic reticulum are critical for functional association with phospholamban.">
+            <entity id="DS3.d12.s0.e0" origId="3294435,6426943" charOffset="12-19" type="compound" text="Lys-Asp"/>
+            <entity id="DS3.d12.s0.e1" origId="5962" charOffset="12-15" type="compound" text="Lys"/>
+            <entity id="DS3.d12.s0.e2" origId="P26678,Q5R352" charOffset="139-152" type="protein" text="phospholamban"/>
+            <pair e1="DS3.d12.s0.e0" e2="DS3.d12.s0.e2" id="DS3.d12.s0.i0" interaction="False" />
+            <pair e1="DS3.d12.s0.e1" e2="DS3.d12.s0.e2" id="DS3.d12.s0.i1" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d12.s1" origId="8083189-2" text="The use of chimeric SERCA2/SERCA3 molecules has revealed that amino acids 336-412 in the phosphorylation domain of SERCA2 are essential for functional association with phospholamban (Toyofuku, T., Kurzydlowski, K., Tada, M., and MacLennan, D. H. (1993) J. Biol.">
+            <entity id="DS3.d12.s1.e0" origId="P16615" charOffset="20-26" type="protein" text="SERCA2"/>
+            <entity id="DS3.d12.s1.e1" origId="Q93084,A8K9K1" charOffset="27-33" type="protein" text="SERCA3"/>
+            <entity id="DS3.d12.s1.e2" origId="P16615" charOffset="115-121" type="protein" text="SERCA2"/>
+            <entity id="DS3.d12.s1.e3" origId="P26678,Q5R352" charOffset="168-181" type="protein" text="phospholamban"/>
+            <entity id="DS3.d12.s1.e4" origId="124432,6604769" charOffset="215-219" type="compound" text="Tada"/>
+            <pair e1="DS3.d12.s1.e4" e2="DS3.d12.s1.e3" id="DS3.d12.s1.i0" interaction="False" />
+            <pair e1="DS3.d12.s1.e4" e2="DS3.d12.s1.e0" id="DS3.d12.s1.i1" interaction="False" />
+            <pair e1="DS3.d12.s1.e4" e2="DS3.d12.s1.e1" id="DS3.d12.s1.i2" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d12.s2" origId="8083189-7" text="The SERCA3 sequence QGEQLV402 was then mutated to the corresponding SERCA2 sequence, KDD-KPV402, and to the sequence KGEKPV402, resulting in restoration of functional interaction with phospholamban.">
+            <entity id="DS3.d12.s2.e0" origId="Q93084,A8K9K1" charOffset="4-10" type="protein" text="SERCA3"/>
+            <entity id="DS3.d12.s2.e1" origId="P16615" charOffset="68-74" type="protein" text="SERCA2"/>
+            <entity id="DS3.d12.s2.e2" origId="25113106" charOffset="85-88" type="compound" text="KDD"/>
+            <entity id="DS3.d12.s2.e3" origId="P26678,Q5R352" charOffset="184-197" type="protein" text="phospholamban"/>
+            <pair e1="DS3.d12.s2.e2" e2="DS3.d12.s2.e3" id="DS3.d12.s2.i0" interaction="False" />
+            <pair e1="DS3.d12.s2.e2" e2="DS3.d12.s2.e1" id="DS3.d12.s2.i1" interaction="False" />
+            <pair e1="DS3.d12.s2.e2" e2="DS3.d12.s2.e0" id="DS3.d12.s2.i2" interaction="False" />
+        </sentence>
+    </document>
+    <document id="DS3.d13" origId="10406548">
+        <sentence id="DS3.d13.s0" origId="10406548-6" text="Production of nitrites (index of NO synthesis), tumor necrosis factor alpha (TNFalpha), interleukin-1beta (IL-1beta), and interferon gamma (IFN-gamma) by unstimulated or stimulated peritoneal leukocytes originating from NAG-based or glucose-based fluid was measured.">
+            <entity id="DS3.d13.s0.e0" origId="P16599" charOffset="48-75" type="protein" text="tumor necrosis factor alpha"/>
+            <entity id="DS3.d13.s0.e1" origId="P16599" charOffset="77-85" type="protein" text="TNFalpha"/>
+            <entity id="DS3.d13.s0.e2" origId="Q5BKB0" charOffset="88-105" type="protein" text="interleukin-1beta"/>
+            <entity id="DS3.d13.s0.e3" origId="Q5BKB0" charOffset="107-115" type="protein" text="IL-1beta"/>
+            <entity id="DS3.d13.s0.e4" origId="P01581" charOffset="140-149" type="protein" text="IFN-gamma"/>
+            <entity id="DS3.d13.s0.e5" origId="206,5793,64689,79025" charOffset="233-240" type="compound" text="glucose"/>
+            <pair e1="DS3.d13.s0.e5" e2="DS3.d13.s0.e4" id="DS3.d13.s0.i0" interaction="False" />
+            <pair e1="DS3.d13.s0.e5" e2="DS3.d13.s0.e0" id="DS3.d13.s0.i1" interaction="False" />
+            <pair e1="DS3.d13.s0.e5" e2="DS3.d13.s0.e2" id="DS3.d13.s0.i2" interaction="False" />
+            <pair e1="DS3.d13.s0.e5" e2="DS3.d13.s0.e1" id="DS3.d13.s0.i3" interaction="False" />
+            <pair e1="DS3.d13.s0.e5" e2="DS3.d13.s0.e3" id="DS3.d13.s0.i4" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d13.s1" origId="10406548-10" text="Stimulated peritoneal leukocytes from NAG-based dialysate produced more cytokines than did cells from glucose-based dialysate: TNFalpha, 135.2+/-37.0 pg versus 70.2+/-21.8 pg per 10(6) cells respectively, p &amp;lt; 0.01; IL-1beta, 143.2+/-60.9 pg versus 99.1+/-22.4 pg per 10(6) cells respectively, p &amp;lt; 0.05; IFN-gamma, 16.2+/-12.5 pg versus 6.0+/-1.8 pg per 10(6) cells respectively, p &amp;lt; 0.01.">
+            <entity id="DS3.d13.s1.e0" origId="206,5793,64689,79025" charOffset="102-109" type="compound" text="glucose"/>
+            <entity id="DS3.d13.s1.e1" origId="P16599" charOffset="127-135" type="protein" text="TNFalpha"/>
+            <entity id="DS3.d13.s1.e2" origId="Q5BKB0" charOffset="218-226" type="protein" text="IL-1beta"/>
+            <entity id="DS3.d13.s1.e3" origId="P01581" charOffset="309-318" type="protein" text="IFN-gamma"/>
+            <pair e1="DS3.d13.s1.e0" e2="DS3.d13.s1.e3" id="DS3.d13.s1.i0" interaction="False" />
+            <pair e1="DS3.d13.s1.e0" e2="DS3.d13.s1.e2" id="DS3.d13.s1.i1" interaction="False" />
+            <pair e1="DS3.d13.s1.e0" e2="DS3.d13.s1.e1" id="DS3.d13.s1.i2" interaction="False" />
+        </sentence>
+    </document>
+    <document id="DS3.d14" origId="4016732">
+        <sentence id="DS3.d14.s0" origId="4016732-7" text="When the substrate concentration was 4 microM and the incubation time was 24 h, beta-glucuronidase treatment of water-soluble metabolites released about 5.3 times more pmol of quinones compared with phenols.">
+            <entity id="DS3.d14.s0.e0" origId="P12265" charOffset="80-98" type="protein" text="beta-glucuronidase"/>
+            <entity id="DS3.d14.s0.e1" origId="962" charOffset="112-117" type="compound" text="water"/>
+            <pair e1="DS3.d14.s0.e1" e2="DS3.d14.s0.e0" id="DS3.d14.s0.i0" interaction="False" />
+        </sentence>
+    </document>
+    <document id="DS3.d15" origId="16521074">
+        <sentence id="DS3.d15.s0" origId="16521074-6" text="On the other hand, such a type of convective transport induces the transport of free-water, by aquaporin-1 channels located on the endothelial side of the peritoneal membrane; therefore, leading to a disproportionate removal of plasmatic water as compared with the removal of plasmatic Na (hyponatric removal).">
+            <entity id="DS3.d15.s0.e0" origId="962" charOffset="85-90" type="compound" text="water"/>
+            <entity id="DS3.d15.s0.e1" origId="P29972,A0A024RA31" charOffset="95-106" type="protein" text="aquaporin-1"/>
+            <entity id="DS3.d15.s0.e2" origId="962" charOffset="238-243" type="compound" text="water"/>
+            <pair e1="DS3.d15.s0.e0" e2="DS3.d15.s0.e1" id="DS3.d15.s0.i0" interaction="False" />
+        </sentence>
+    </document>
+    <document id="DS3.d16" origId="21859140">
+        <sentence id="DS3.d16.s0" origId="21859140-2" text="Therefore, we have developed a liquid chromatography-nanoelectrospray-high resolution tandem mass spectrometry-selected reaction monitoring (LC-NSI-HRMS/MS-SRM) method for the analysis of 7-ethyl-Gua in human leukocyte DNA, a readily available source of DNA.">
+            <entity id="DS3.d16.s0.e0" origId="9549238" charOffset="144-147" type="compound" text="NSI"/>
+            <entity id="DS3.d16.s0.e1" origId="23134249" charOffset="190-195" type="compound" text="ethyl"/>
+            <entity id="DS3.d16.s0.e2" origId="Q9NR30" charOffset="196-199" type="protein" text="Gua"/>
+            <pair e1="DS3.d16.s0.e0" e2="DS3.d16.s0.e2" id="DS3.d16.s0.i0" interaction="False" />
+            <pair e1="DS3.d16.s0.e1" e2="DS3.d16.s0.e2" id="DS3.d16.s0.i1" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d16.s1" origId="21859140-3" text="((15)N(5))7-Ethyl-Gua was used as the internal standard.">
+            <entity id="DS3.d16.s1.e0" origId="23134249" charOffset="12-17" type="compound" text="Ethyl"/>
+            <entity id="DS3.d16.s1.e1" origId="Q9NR30" charOffset="18-21" type="protein" text="Gua"/>
+            <pair e1="DS3.d16.s1.e0" e2="DS3.d16.s1.e1" id="DS3.d16.s1.i0" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d16.s2" origId="21859140-6" text="The fraction containing 7-ethyl-Gua was analyzed by LC-NSI-HRMS/MS-SRM using the transition m/z 180 (M + H)(+)→ m/z 152.05669 (Gua + H)(+) for 7-ethyl-Gua and m/z 185 → m/z 157.04187 for the internal standard.">
+            <entity id="DS3.d16.s2.e0" origId="23134249" charOffset="26-31" type="compound" text="ethyl"/>
+            <entity id="DS3.d16.s2.e1" origId="Q9NR30" charOffset="32-35" type="protein" text="Gua"/>
+            <entity id="DS3.d16.s2.e2" origId="9549238" charOffset="55-58" type="compound" text="NSI"/>
+            <entity id="DS3.d16.s2.e3" origId="Q9NR30" charOffset="127-130" type="protein" text="Gua"/>
+            <entity id="DS3.d16.s2.e4" origId="23134249" charOffset="145-150" type="compound" text="ethyl"/>
+            <entity id="DS3.d16.s2.e5" origId="Q9NR30" charOffset="127-130" type="protein" text="Gua"/>
+            <pair e1="DS3.d16.s2.e2" e2="DS3.d16.s2.e1" id="DS3.d16.s2.i0" interaction="False" />
+            <pair e1="DS3.d16.s2.e0" e2="DS3.d16.s2.e1" id="DS3.d16.s2.i1" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d16.s3" origId="21859140-9" text="Clear peaks for 7-ethyl-Gua and the internal standard were observed in most of the samples.">
+            <entity id="DS3.d16.s3.e0" origId="23134249" charOffset="18-23" type="compound" text="ethyl"/>
+            <entity id="DS3.d16.s3.e1" origId="Q9NR30" charOffset="24-27" type="protein" text="Gua"/>
+            <pair e1="DS3.d16.s3.e0" e2="DS3.d16.s3.e1" id="DS3.d16.s3.i0" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d16.s4" origId="21859140-10" text="The mean (±SD) level of 7-ethyl-Gua measured in leukocyte DNA from smokers was 49.6 ± 43.3 (range 14.6-181) fmol/μmol Gua, while that from nonsmokers was 41.3 ± 34.9 (range 9.64-157) fmol/μmol Gua.">
+            <entity id="DS3.d16.s4.e0" origId="23134249" charOffset="26-31" type="compound" text="ethyl"/>
+            <entity id="DS3.d16.s4.e1" origId="Q9NR30" charOffset="32-35" type="protein" text="Gua"/>
+            <entity id="DS3.d16.s4.e2" origId="Q9NR30" charOffset="118-121" type="protein" text="Gua"/>
+            <entity id="DS3.d16.s4.e3" origId="Q9NR30" charOffset="118-121" type="protein" text="Gua"/>
+            <pair e1="DS3.d16.s4.e0" e2="DS3.d16.s4.e1" id="DS3.d16.s4.i0" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d16.s5" origId="21859140-11" text="Although a significant difference between smokers and nonsmokers was not observed, the method described here is unique in the use of high resolution mass spectrometry and establishes for the first time the presence of 7-ethyl-Gua in human leukocyte DNA.">
+            <entity id="DS3.d16.s5.e0" origId="23134249" charOffset="220-225" type="compound" text="ethyl"/>
+            <entity id="DS3.d16.s5.e1" origId="Q9NR30" charOffset="226-229" type="protein" text="Gua"/>
+            <pair e1="DS3.d16.s5.e0" e2="DS3.d16.s5.e1" id="DS3.d16.s5.i0" interaction="False" />
+        </sentence>
+    </document>
+    <document id="DS3.d17" origId="19336468">
+        <sentence id="DS3.d17.s0" origId="19336468-2" text="In the current study, we examined the effect of NDRG2 expression on the metastatic potential of HT1080 human fibrosarcoma and B16F10 murine melanoma cells in both in vitro and in vivo systems.">
+            <entity id="DS3.d17.s0.e0" origId="Q9UN36" charOffset="48-53" type="protein" text="NDRG2"/>
+            <entity id="DS3.d17.s0.e1" origId="24820487" charOffset="96-102" type="compound" text="HT1080"/>
+            <pair e1="DS3.d17.s0.e1" e2="DS3.d17.s0.e0" id="DS3.d17.s0.i0" interaction="False" />
+        </sentence>
+    </document>
+    <document id="DS3.d18" origId="11788362">
+        <sentence id="DS3.d18.s0" origId="11788362-2" text="Its rate was measured in vivo by indirect calorimetry and continuous infusion of (2-(3)H)glycerol and (1-(14)C)palmitate, after injection of leptin or vehicle saline in rabbits.">
+            <entity id="DS3.d18.s0.e0" origId="24759880,753" charOffset="89-97" type="compound" text="glycerol"/>
+            <entity id="DS3.d18.s0.e1" origId="985" charOffset="111-120" type="compound" text="palmitate"/>
+            <entity id="DS3.d18.s0.e2" origId="B0KZL0" charOffset="141-147" type="protein" text="leptin"/>
+            <pair e1="DS3.d18.s0.e1" e2="DS3.d18.s0.e2" id="DS3.d18.s0.i0" interaction="False" />
+            <pair e1="DS3.d18.s0.e0" e2="DS3.d18.s0.e2" id="DS3.d18.s0.i1" interaction="False" />
+        </sentence>
+    </document>
+    <document id="DS3.d19" origId="16010524">
+        <sentence id="DS3.d19.s0" origId="16010524-2" text="We evaluated the effect of ramipril (a pure ACE inhibitor) and AVE7688 (a dual inhibitor of ACE and neutral endopeptidase) on renal accumulation of the advanced glycation end-product (AGE) 3-deoxyglucosone-imidazolone, carboxymethyllysine (CML) and pentosidine, and on clearance of CML in type 2 diabetes.">
+            <entity id="DS3.d19.s0.e0" origId="5362129" charOffset="27-35" type="compound" text="ramipril"/>
+            <entity id="DS3.d19.s0.e1" origId="P47820" charOffset="44-47" type="protein" text="ACE"/>
+            <entity id="DS3.d19.s0.e2" origId="P47820" charOffset="92-95" type="protein" text="ACE"/>
+            <entity id="DS3.d19.s0.e3" origId="114839" charOffset="189-205" type="compound" text="3-deoxyglucosone"/>
+            <entity id="DS3.d19.s0.e4" origId="15691190" charOffset="219-238" type="compound" text="carboxymethyllysine"/>
+            <entity id="DS3.d19.s0.e5" origId="119593" charOffset="249-260" type="compound" text="pentosidine"/>
+            <pair e1="DS3.d19.s0.e3" e2="DS3.d19.s0.e1" id="DS3.d19.s0.i0" interaction="False" />
+            <pair e1="DS3.d19.s0.e5" e2="DS3.d19.s0.e1" id="DS3.d19.s0.i1" interaction="False" />
+            <pair e1="DS3.d19.s0.e0" e2="DS3.d19.s0.e1" id="DS3.d19.s0.i2" interaction="False" />
+            <pair e1="DS3.d19.s0.e4" e2="DS3.d19.s0.e1" id="DS3.d19.s0.i3" interaction="False" />
+        </sentence>
+    </document>
+    <document id="DS3.d20" origId="8577861">
+        <sentence id="DS3.d20.s0" origId="8577861-1" text="A mild and efficient method of linking a dihydroflavin to the C-17 carboyxlic acid side chain of protochlorophyllide, without degradation of the sensitive E ring or loss of magnesium, is described.">
+            <entity id="DS3.d20.s0.e0" origId="Q9NRR1" charOffset="62-66" type="protein" text="C-17"/>
+            <entity id="DS3.d20.s0.e1" origId="6328206,6326984" charOffset="97-116" type="compound" text="protochlorophyllide"/>
+            <entity id="DS3.d20.s0.e2" origId="5462224" charOffset="173-182" type="compound" text="magnesium"/>
+            <pair e1="DS3.d20.s0.e1" e2="DS3.d20.s0.e0" id="DS3.d20.s0.i0" interaction="False" />
+            <pair e1="DS3.d20.s0.e2" e2="DS3.d20.s0.e0" id="DS3.d20.s0.i1" interaction="False" />
+        </sentence>
+    </document>
+    <document id="DS3.d21" origId="21948612">
+        <sentence id="DS3.d21.s0" origId="21948612-13" text="Testis gene expression of glutathione peroxidase 4, as determined using quantitative PCR, was increased (P &amp;lt; 0.01) in boars fed organic Se compared with those fed sodium selenite.">
+            <entity id="DS3.d21.s0.e0" origId="P36969,Q6PI42" charOffset="26-50" type="protein" text="glutathione peroxidase 4"/>
+            <entity id="DS3.d21.s0.e1" origId="24934" charOffset="166-181" type="compound" text="sodium selenite"/>
+            <pair e1="DS3.d21.s0.e1" e2="DS3.d21.s0.e0" id="DS3.d21.s0.i0" interaction="False" />
+        </sentence>
+    </document>
+    <document id="DS3.d22" origId="2081812">
+        <sentence id="DS3.d22.s0" origId="2081812-2" text="Animals treated neonatally with capsaicin display reduced Preproenkephalin gene expression in nucleus caudalis neurons.">
+            <entity id="DS3.d22.s0.e0" origId="1548943" charOffset="32-41" type="compound" text="capsaicin"/>
+            <entity id="DS3.d22.s0.e1" origId="P01210,A0A024R7V4" charOffset="58-74" type="protein" text="Preproenkephalin"/>
+            <pair e1="DS3.d22.s0.e0" e2="DS3.d22.s0.e1" id="DS3.d22.s0.i0" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d22.s1" origId="2081812-4" text="High intensity stimulation is effective only at later time points in normal animals, but it causes both early and late effects on Preproenkephalin expression when applied to animals neonatally lesioned with capsaicin.">
+            <entity id="DS3.d22.s1.e0" origId="P01210,A0A024R7V4" charOffset="130-146" type="protein" text="Preproenkephalin"/>
+            <entity id="DS3.d22.s1.e1" origId="1548943" charOffset="207-216" type="compound" text="capsaicin"/>
+            <pair e1="DS3.d22.s1.e1" e2="DS3.d22.s1.e0" id="DS3.d22.s1.i0" interaction="False" />
+        </sentence>
+</document>
+</corpus>

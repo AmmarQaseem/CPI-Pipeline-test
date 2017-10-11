@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<corpus source="DS3">
+    <document id="DS3.d0" origId="10021296">
+        <sentence id="DS3.d0.s0" origId="10021296-8" text="Only PKC-alpha and PKC-gamma expression increased with increasing indices of paclitaxel resistance.">
+            <entity id="DS3.d0.s0.e0" origId="P17252,Q7Z727" charOffset="5-14" type="protein" text="PKC-alpha"/>
+            <entity id="DS3.d0.s0.e1" origId="P05129" charOffset="19-28" type="protein" text="PKC-gamma"/>
+            <entity id="DS3.d0.s0.e2" origId="36314,441276,44155032,4666,53313247,5352019,6713921,6915727" charOffset="77-87" type="compound" text="paclitaxel"/>
+            <pair e1="DS3.d0.s0.e2" e2="DS3.d0.s0.e1" id="DS3.d0.s0.i0" interaction="False" />
+            <pair e1="DS3.d0.s0.e2" e2="DS3.d0.s0.e0" id="DS3.d0.s0.i1" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d0.s1" origId="10021296-9" text="Interestingly, PMA induction of PKC activity reversed resistance to paclitaxel in all cell lines by 2- to 3-fold, and this reversal of drug resistance was associated with a time-dependent translocation of PKC-alpha and PKC-gamma to the plasma membrane compartment.">
+            <entity id="DS3.d0.s1.e0" origId="122634,22833501,27924,4792" charOffset="15-18" type="compound" text="PMA"/>
+            <entity id="DS3.d0.s1.e1" origId="36314,441276,44155032,4666,53313247,5352019,6713921,6915727" charOffset="68-78" type="compound" text="paclitaxel"/>
+            <entity id="DS3.d0.s1.e2" origId="P17252,Q7Z727" charOffset="205-214" type="protein" text="PKC-alpha"/>
+            <entity id="DS3.d0.s1.e3" origId="P05129" charOffset="219-228" type="protein" text="PKC-gamma"/>
+            <pair e1="DS3.d0.s1.e1" e2="DS3.d0.s1.e3" id="DS3.d0.s1.i0" interaction="False" />
+            <pair e1="DS3.d0.s1.e1" e2="DS3.d0.s1.e2" id="DS3.d0.s1.i1" interaction="False" />
+            <pair e1="DS3.d0.s1.e0" e2="DS3.d0.s1.e3" id="DS3.d0.s1.i2" interaction="False" />
+            <pair e1="DS3.d0.s1.e0" e2="DS3.d0.s1.e2" id="DS3.d0.s1.i3" interaction="False" />
+        </sentence>
+    </document>
+    <document id="DS3.d1" origId="10021299">
+        <sentence id="DS3.d1.s0" origId="10021299-4" text="A polymorphism in the WAF1 gene, a C-to-A transversion at codon 31 resulting in the change of a serine (Ser) to an arginine (Arg), is well known.">
+            <entity id="DS3.d1.s0.e0" origId="P38936,A0A024RCX5" charOffset="22-26" type="protein" text="WAF1"/>
+            <entity id="DS3.d1.s0.e1" origId="5951" charOffset="104-107" type="compound" text="Ser"/>
+            <entity id="DS3.d1.s0.e2" origId="6322,90867653" charOffset="115-123" type="compound" text="arginine"/>
+            <pair e1="DS3.d1.s0.e1" e2="DS3.d1.s0.e0" id="DS3.d1.s0.i0" interaction="False" />
+            <pair e1="DS3.d1.s0.e2" e2="DS3.d1.s0.e0" id="DS3.d1.s0.i1" interaction="False" />
+        </sentence>
+    </document>
+    <document id="DS3.d2" origId="10021319">
+        <sentence id="DS3.d2.s0" origId="10021319-0" text="Nitric oxide stimulates the stress-activated protein kinase p38 in rat renal mesangial cells.">
+            <entity id="DS3.d2.s0.e0" origId="145068" charOffset="0-12" type="compound" text="Nitric oxide"/>
+            <entity id="DS3.d2.s0.e1" origId="G3V617,Q56A33" charOffset="60-63" type="protein" text="p38"/>
+            <pair e1="DS3.d2.s0.e0" e2="DS3.d2.s0.e1" id="DS3.d2.s0.i0" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d2.s1" origId="10021319-3" text="Here, we demonstrate that exposure of glomerular mesangial cells to compounds releasing NO, including spermine-NO and (Z)-1- (N-methyl-N-(6-(N-methylammoniohexyl)amino)diazen)-1-ium-1,2-diolate (MAHMA-NO), results in an activation of the stress-activated p38-mitogen-activated protein kinase (p38-MAPK) cascade as measured by the phosphorylation of the activator of transcription factor-2 (ATF2) in an immunocomplex kinase assay.">
+            <entity id="DS3.d2.s1.e0" origId="1103" charOffset="102-110" type="compound" text="spermine"/>
+            <entity id="DS3.d2.s1.e1" origId="G3V617,Q56A33" charOffset="255-291" type="protein" text="p38-mitogen-activated protein kinase"/>
+            <entity id="DS3.d2.s1.e2" origId="G3V617,Q56A33" charOffset="255-258" type="protein" text="p38"/>
+            <pair e1="DS3.d2.s1.e0" e2="DS3.d2.s1.e2" id="DS3.d2.s1.i0" interaction="False" />
+            <pair e1="DS3.d2.s1.e0" e2="DS3.d2.s1.e1" id="DS3.d2.s1.i1" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d2.s2" origId="10021319-6" text="The longer-lived NO donor spermine-NO causes a comparable rapid activation of the p38-MAPK pathway; however, the increased activation state of p38-MAPK was maintained for several hours before control values were reattained after 24 h of stimulation.">
+            <entity id="DS3.d2.s2.e0" origId="1103" charOffset="26-34" type="compound" text="spermine"/>
+            <entity id="DS3.d2.s2.e1" origId="G3V617,Q56A33" charOffset="82-85" type="protein" text="p38"/>
+            <entity id="DS3.d2.s2.e2" origId="G3V617,Q56A33" charOffset="143-146" type="protein" text="p38"/>
+            <pair e1="DS3.d2.s2.e0" e2="DS3.d2.s2.e1" id="DS3.d2.s2.i0" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d2.s3" origId="10021319-8" text="Both MAHMA-NO and spermine-NO cause a rapid activation of p44-MAPK after 10 min of stimulation.">
+            <entity id="DS3.d2.s3.e0" origId="1103" charOffset="18-26" type="compound" text="spermine"/>
+            <entity id="DS3.d2.s3.e1" origId="P21708" charOffset="58-66" type="protein" text="p44-MAPK"/>
+            <pair e1="DS3.d2.s3.e0" e2="DS3.d2.s3.e1" id="DS3.d2.s3.i0" interaction="False" />
+        </sentence>
+    </document>
+    <document id="DS3.d3" origId="10021336">
+        <sentence id="DS3.d3.s0" origId="10021336-0" text="Inhibition of in vitro enteric neuronal development by endothelin-3: mediation by endothelin B receptors.">
+            <entity id="DS3.d3.s0.e0" origId="P48299,A2APU5" charOffset="55-67" type="protein" text="endothelin-3"/>
+            <entity id="DS3.d3.s0.e1" origId="44284481" charOffset="55-65" type="compound" text="endothelin"/>
+            <pair e1="DS3.d3.s0.e1" e2="DS3.d3.s0.e0" id="DS3.d3.s0.i0" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d3.s1" origId="10021336-11" text="We suggest that endothelin-3/endothelin B normally prevents the premature differentiation of crest-derived precursors migrating to and within the fetal bowel, enabling the precursor population to persist long enough to finish colonizing the bowel.">
+            <entity id="DS3.d3.s1.e0" origId="P48299,A2APU5" charOffset="16-28" type="protein" text="endothelin-3"/>
+            <entity id="DS3.d3.s1.e1" origId="44284481" charOffset="16-26" type="compound" text="endothelin"/>
+            <pair e1="DS3.d3.s1.e1" e2="DS3.d3.s1.e0" id="DS3.d3.s1.i0" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d3.s2" origId="10021336-1" text="The terminal colon is aganglionic in mice lacking endothelin-3 or its receptor, endothelin B.">
+            <entity id="DS3.d3.s2.e0" origId="P48299,A2APU5" charOffset="50-62" type="protein" text="endothelin-3"/>
+            <entity id="DS3.d3.s2.e1" origId="44284481" charOffset="50-60" type="compound" text="endothelin"/>
+            <pair e1="DS3.d3.s2.e1" e2="DS3.d3.s2.e0" id="DS3.d3.s2.i0" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d3.s3" origId="10021336-2" text="To analyze the effects of endothelin-3/endothelin B on the differentiation of enteric neurons, E11-13 mouse gut was dissociated, and positive and negative immunoselection with antibodies to p75(NTR )were used to isolate neural crest- and non-crest-derived cells.">
+            <entity id="DS3.d3.s3.e0" origId="P48299,A2APU5" charOffset="26-38" type="protein" text="endothelin-3"/>
+            <entity id="DS3.d3.s3.e1" origId="44284481" charOffset="26-36" type="compound" text="endothelin"/>
+            <entity id="DS3.d3.s3.e2" origId="46174171" charOffset="95-98" type="compound" text="E11"/>
+            <entity id="DS3.d3.s3.e3" origId="P12265" charOffset="108-111" type="protein" text="gut"/>
+            <entity id="DS3.d3.s3.e4" origId="Q8CFT3" charOffset="190-193" type="protein" text="p75"/>
+            <pair e1="DS3.d3.s3.e2" e2="DS3.d3.s3.e0" id="DS3.d3.s3.i0" interaction="False" />
+            <pair e1="DS3.d3.s3.e2" e2="DS3.d3.s3.e4" id="DS3.d3.s3.i1" interaction="False" />
+            <pair e1="DS3.d3.s3.e2" e2="DS3.d3.s3.e3" id="DS3.d3.s3.i2" interaction="False" />
+            <pair e1="DS3.d3.s3.e1" e2="DS3.d3.s3.e0" id="DS3.d3.s3.i3" interaction="False" />
+            <pair e1="DS3.d3.s3.e1" e2="DS3.d3.s3.e4" id="DS3.d3.s3.i4" interaction="False" />
+            <pair e1="DS3.d3.s3.e1" e2="DS3.d3.s3.e3" id="DS3.d3.s3.i5" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d3.s4" origId="10021336-3" text="mRNA encoding endothelin B was present in both the crest-and non-crest-derived cells, but that encoding preproendothelin-3 was detected only in the non-crest-derived population.">
+            <entity id="DS3.d3.s4.e0" origId="44284481" charOffset="14-24" type="compound" text="endothelin"/>
+            <entity id="DS3.d3.s4.e1" origId="P48299,A2APU5" charOffset="104-122" type="protein" text="preproendothelin-3"/>
+            <pair e1="DS3.d3.s4.e0" e2="DS3.d3.s4.e1" id="DS3.d3.s4.i0" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d3.s5" origId="10021336-4" text="The crest- and non-crest-derived cells were exposed in vitro to endothelin-3, IRL 1620 (an endothelin B agonist), and/or BQ 788 (an endothelin B antagonist).">
+            <entity id="DS3.d3.s5.e0" origId="P48299,A2APU5" charOffset="64-76" type="protein" text="endothelin-3"/>
+            <entity id="DS3.d3.s5.e1" origId="16130933" charOffset="78-86" type="compound" text="IRL 1620"/>
+            <entity id="DS3.d3.s5.e2" origId="44284481" charOffset="64-74" type="compound" text="endothelin"/>
+            <entity id="DS3.d3.s5.e3" origId="3081333" charOffset="121-127" type="compound" text="BQ 788"/>
+            <entity id="DS3.d3.s5.e4" origId="44284481" charOffset="91-101" type="compound" text="endothelin"/>
+            <pair e1="DS3.d3.s5.e1" e2="DS3.d3.s5.e0" id="DS3.d3.s5.i0" interaction="False" />
+            <pair e1="DS3.d3.s5.e2" e2="DS3.d3.s5.e0" id="DS3.d3.s5.i1" interaction="False" />
+            <pair e1="DS3.d3.s5.e3" e2="DS3.d3.s5.e0" id="DS3.d3.s5.i2" interaction="False" />
+        </sentence>
+        <sentence id="DS3.d3.s6" origId="10021336-5" text="Neurons and glia developed only in cultures of crest-derived cells, and did so even when endothelin-3 was absent and BQ 788 was present.">
+            <entity id="DS3.d3.s6.e0" origId="P48299,A2APU5" charOffset="89-101" type="protein" text="endothelin-3"/>
+            <entity id="DS3.d3.s6.e1" origId="3081333" charOffset="117-123" type="compound" text="BQ 788"/>
+            <pair e1="DS3.d3.s6.e1" e2="DS3.d3.s6.e0" id="DS3.d3.s6.i0" interaction="False" />
+        </sentence>
+    </document>
+    <document id="DS3.d4" origId="8630976">
+        <sentence id="DS3.d4.s0" origId="8630976-2" text="These loci were chosen because of their use in microsatellite instability studies in other tumors such as colorectal cancer (e.g. 5q, 18q, 17p) or because of the presence of chromosomal abnormalities such as telomeric associations commonly occurring at 19q and 11p termini (thus the reason for including the 19q and 11p termini microsatellites in our study of GCT).">
+            <entity id="DS3.d4.s0.e0" origId="16750107" charOffset="262-265" type="compound" text="11p"/>
+            <entity id="DS3.d4.s0.e1" origId="16750107" charOffset="317-320" type="compound" text="11p"/>
+            <entity id="DS3.d4.s0.e2" origId="Q16769" charOffset="361-364" type="protein" text="GCT"/>
+            <pair e1="DS3.d4.s0.e0" e2="DS3.d4.s0.e2" id="DS3.d4.s0.i0" interaction="False" />
+        </sentence>
+    </document>
+    <document id="DS3.d5" origId="19719783">
+        <sentence id="DS3.d5.s0" origId="19719783-4" text="EXPERIMENTAL APPROACH: Functional studies were performed by cyclic adenosine monophosphate (cAMP) accumulation assays in cells untreated or treated with dobutamine and ICI 118551 (beta(1)-adrenoceptor) or CL-316243624 (beta(3)-adrenoceptor) for 24 h in the presence or absence of protein kinase inhibitors.">
+            <entity id="DS3.d5.s0.e0" origId="6083" charOffset="67-90" type="compound" text="adenosine monophosphate"/>
+            <entity id="DS3.d5.s0.e1" origId="6076" charOffset="92-96" type="compound" text="cAMP"/>
+            <entity id="DS3.d5.s0.e2" origId="36811" charOffset="153-163" type="compound" text="dobutamine"/>
+            <entity id="DS3.d5.s0.e3" origId="5484725" charOffset="168-178" type="compound" text="ICI 118551"/>
+            <entity id="DS3.d5.s0.e4" origId="P18090" charOffset="180-200" type="protein" text="beta(1)-adrenoceptor"/>
+            <entity id="DS3.d5.s0.e5" origId="312" charOffset="205-208" type="compound" text="CL-"/>
+            <entity id="DS3.d5.s0.e6" origId="P26255" charOffset="219-239" type="protein" text="beta(3)-adrenoceptor"/>
+            <pair e1="DS3.d5.s0.e3" e2="DS3.d5.s0.e6" id="DS3.d5.s0.i0" interaction="False" />
+            <pair e1="DS3.d5.s0.e3" e2="DS3.d5.s0.e4" id="DS3.d5.s0.i1" interaction="False" />
+            <pair e1="DS3.d5.s0.e5" e2="DS3.d5.s0.e6" id="DS3.d5.s0.i2" interaction="False" />
+            <pair e1="DS3.d5.s0.e5" e2="DS3.d5.s0.e4" id="DS3.d5.s0.i3" interaction="False" />
+            <pair e1="DS3.d5.s0.e2" e2="DS3.d5.s0.e6" id="DS3.d5.s0.i4" interaction="False" />
+            <pair e1="DS3.d5.s0.e2" e2="DS3.d5.s0.e4" id="DS3.d5.s0.i5" interaction="False" />
+            <pair e1="DS3.d5.s0.e1" e2="DS3.d5.s0.e6" id="DS3.d5.s0.i6" interaction="False" />
+            <pair e1="DS3.d5.s0.e1" e2="DS3.d5.s0.e4" id="DS3.d5.s0.i7" interaction="False" />
+            <pair e1="DS3.d5.s0.e0" e2="DS3.d5.s0.e6" id="DS3.d5.s0.i8" interaction="False" />
+            <pair e1="DS3.d5.s0.e0" e2="DS3.d5.s0.e4" id="DS3.d5.s0.i9" interaction="False" />
+        </sentence>
+</document>
+</corpus>
